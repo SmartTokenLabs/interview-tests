@@ -23,7 +23,7 @@ Best of luck from the Smart Token Lab team!
 
 ## Part 3 - Connect to a wallet:
 
-It's highly recomeneded at this point to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
+At this point it's highly recommended to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
 
 - Import the demo wallet into MetaMask (details provided to you from Sunil)
 - Add the testNet Mumbai / Polygon to MetaMask
