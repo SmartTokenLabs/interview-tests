@@ -1,6 +1,6 @@
 # Test excersise for Advanced Javascript Developer
 
-The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. The test is split into 4 parts. It's not required that you complete all task items, please also reach out to us if you have any questions during the exercise.
+The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. The test is split into 4 parts, it's not required to complete all task items. Reach out at anytime with questions, best of luck with the exercise from the STL's team.
 
 ## Part 1 - Creating the main 3D Web App:
 
