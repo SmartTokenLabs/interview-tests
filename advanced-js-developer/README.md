@@ -2,7 +2,7 @@
 
 The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-The test is split into 4 areas shown below and designed to be submitted within 2 days, where to succeed, it's not mandatory to complete all of the task items.
+The test is split into 4 areas shown below and designed to be submitted after 2 days of development, where to succeed, it's not mandatory to complete all of the task items.
 
 Best of luck from the Smart Token Lab team! 
 
