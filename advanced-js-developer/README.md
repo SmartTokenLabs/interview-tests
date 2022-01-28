@@ -27,14 +27,14 @@ It's highly recomeneded at this point to use a new Chrome browser Profile / to e
 
 - Import the demo wallet into MetaMask (details provided to you from Sunil)
 - Add the testNet Mumbai / Polygon to MetaMask
-- Add an asyc function to the Connect button event, so when clicking connect - the first step connects to a wallet via MetaMask, before animating to the starfield
+- Add an async function to the Connect button event, so when clicking connect - the first step connects to a wallet via MetaMask, before animating to the starfield
 - Connect the example to a provided Wallet address with MetaMask, showing the NFT's in place of the mock images inside the Dapp.
 - Within the meta of the NFT's are URLs, enrich the token data, so when a token is clicked on it will open inside a new window.
 
 ## Part 4 - Finishing touches & submission:
 
 - Add a README to the github repository, including the steps to serve and test the application
-- Reach out to Sunil sharing the link to the github repository of the code. 
+- Reach out to Sunil sharing the link to the github repository of the code
 
 
 
