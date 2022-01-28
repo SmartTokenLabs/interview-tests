@@ -4,7 +4,7 @@ The following exercise is to create a Dapp based on three.js's, periodic table e
 
 The test is split into 4 areas shown below and designed to be submitted within 2 days, where to succeed, it's not mandatory to complete all of the task items.
 
-Best of luck from the Smart Token Lab team! Also reach out if you have any questions as you go.
+Best of luck from the Smart Token Lab team! 
 
 ## Part 1 - Creating the main 3D Web App:
 
