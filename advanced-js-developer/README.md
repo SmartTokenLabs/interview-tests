@@ -1,8 +1,8 @@
-# Test excersise for Advanced Javascript Developer
+# Test exercise for Advanced Javascript Developer
 
 The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-The test is split into 4 areas shown below and designed to be submitted after a maxiumum of 2 days of development, where to succeed, it's not mandatory to complete all of the task items.
+The test is split into 4 areas shown below and designed to be submitted after a maximum of 2 days of development, where to succeed, it's not mandatory to complete all of the task items.
 
 Best of luck from the Smart Token Lab team! 
 
@@ -33,16 +33,5 @@ At this point it's highly recommended to use a new Chrome browser Profile / to e
 ## Part 4 - Finishing touches & submission:
 
 - Add any CSS styling to the Dapp / finishing touches
-- Add a README to the github repository, including the steps to serve and test the application
-- Reach out to Sunil sharing the link to the github repository of the code
-
-
-
-
-
-
-
-
-
-
-
+- Add a README to the GitHub repository, including the steps to serve and test the application
+- Reach out to Sunil sharing the link to the GitHub repository of the code
