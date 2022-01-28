@@ -2,9 +2,9 @@
 
 The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-The test is split into 4 parts where it's not required to complete all of the task challenges. 
+The test is split into 4 areas shown below and designed to be submitted within 2 days, where to succeed, it's not mandatory to complete all of the task items.
 
-Reach out at anytime with questions, best of luck with the exercise from the STL's team.
+- best of luck from the STL's team! Also reach out if you have any questions as you go.
 
 ## Part 1 - Creating the main 3D Web App:
 
