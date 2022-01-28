@@ -11,8 +11,8 @@ Best of luck from the Smart Token Lab team!
 - Locate the three.js periodic table example code online
 - Add a new particle formation to the example called 'starfield'.
 - On load of the example, the elements should initialise the 'starfield formation', placing the elements randomly at x, y, z positions.
-- Adjust the input data structure of the example, so each element added to the application contains / or references an image URL, Description, Title & External URL.
-- Load mock images in place of the periodic table elements (the images can be of any anything you choose e.g. placeholder kitty images).
+- Adjust the input data structure of the example to include an: image URL, description, title & external URL.
+- Use mock images in place of the periodic table elements (the images can be of any anything you choose e.g. placeholder kitty images).
 - Add main button which shows when the page loads, with the text "Connect". 
 - When clicking "Connect", the formation should animate from "Startfield" to "Sphere".
 
