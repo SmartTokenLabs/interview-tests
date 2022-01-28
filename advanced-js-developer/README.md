@@ -6,7 +6,7 @@ The test is split into 4 areas shown below and designed to be submitted within 2
 
 Best of luck from the Smart Token Lab team! 
 
-## Part 1 - Creating the main 3D Web App:
+## Part 1 - Creating the main application:
 
 - Locate the three.js periodic table example code online
 - Add a new particle formation to the example called 'starfield'.
