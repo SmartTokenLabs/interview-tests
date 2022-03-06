@@ -15,7 +15,7 @@ The following exercise is to create a token gated Chrome Extension experience. T
 
 - Create a web3 wallet connection inside the webpage (to learn the end users public address)
 - Indicate the wallet is connected graphically inside the extension 
-- Trigger a notification that the RPG game has now opened one of the 3 paths
+- Trigger a notification that the RPG game has now opened one of the 3 paths (once the users public address is known)
 - When the end user navigates to one of the paths it will now load a new view (injected from the extension data)
 - Inside this second view, share a base64 version of the secret to the end user asking them to copy it
 - When the end user navigates to either of the other two paths, the Chrome extension must trigger a prompt for the code.
