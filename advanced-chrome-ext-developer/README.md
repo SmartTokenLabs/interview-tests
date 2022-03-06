@@ -24,6 +24,6 @@ The following exercise is to create a token gated Chrome Extension experience. T
 
 ## Part 3 (fully optional - based on your time):
 
-1 When the chrome extension is open, show it’s up to date Rinkeby balance (or another balance of choice)
-2 Further demonstrate features available with Chrome extensions (alarms, storage, history, security)
+- When the chrome extension is open, show it’s up to date Rinkeby balance (or another balance of choice)
+- Further demonstrate features available with Chrome extensions (alarms, storage, history, security)
 
