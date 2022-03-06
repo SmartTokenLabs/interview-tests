@@ -2,6 +2,10 @@
 
 The following exercise is to create a token gated Chrome Extension experience. The concept is that an RPG game is loaded with a single view and the end user will unlock content as they progress.
 
+The test is split into 4 areas shown below and designed to be submitted after a maxiumum of 2 days of development, where to succeed, it's not mandatory to complete all of the task items.
+
+Best of luck from the Smart Token Lab team!
+
 ## Part 1 - Create the Chrome Extension and set up working code example
 
 - Download this example code https://github.com/nicktaras/basic-rpg (simple RPG game with 3 paths onload)
@@ -22,11 +26,15 @@ The following exercise is to create a token gated Chrome Extension experience. T
 - Entering the code will do simple check decoding the base64 and checking it matches.
 - If the Proof matches the expected value then a notification will let them know they have completed the game. 
 
-## Part 3 (fully optional - based on your time):
+## Part 3 - Additional touches
 
 - When the chrome extension is open, show it’s up to date Rinkeby balance (or another balance of choice)
 - Create a signing/message process to check owership of the wallet address (ethers.js or web3.js)
 - Further demonstrate features available with Chrome extensions (alarms, storage, history, security)
-- Add unit tests using Jest or your favourite library
 
-<img width="521" alt="Screen Shot 2022-03-05 at 7 23 56 pm" src="https://user-images.githubusercontent.com/6808817/156907891-aef5a2cd-e298-46d5-b134-14618cc0ce6b.png">
+## Part 4 - Unit tests 
+
+- Add unit tests using Jest or your favourite library for the Chrome Extension functionality (at least for one function)
+- Add notes to ReadMe of how to use the extension
+
+<img width="521" alt="Screen Shot 2022-03-05 at 7 23 56 pm" src="https://user-images.githubusercontent.com/6808817/156907891-aef5a2cd-e298-46d5-b134-14618cc0ce6b.png"> 
