@@ -1,15 +1,19 @@
 # Test excersise for Advanced Javascript Developer
 
-The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. The test is split into 4 parts. It's not required that you complete all task items, please also reach out to us if you have any questions during the exercise.
+The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-## Part 1 - Creating the main 3D Web App:
+The test is split into 4 areas shown below and designed to be submitted after a maxiumum of 2 days of development, where to succeed, it's not mandatory to complete all of the task items.
+
+Best of luck from the Smart Token Lab team! 
+
+## Part 1 - Creating the main application:
 
 - Locate the three.js periodic table example code online
 - Add a new particle formation to the example called 'starfield'.
 - On load of the example, the elements should initialise the 'starfield formation', placing the elements randomly at x, y, z positions.
-- Adjust the input data structure of the example, so each element added to the application contains / or references an image URL, Description, Title & External URL.
-- Load mock images in place of the periodic table elements (the images can be of any anything you choose e.g. placeholder kitty images).
-- Add main button which shows when the page loads, with the text "Connect". 
+- Adjust the input data structure of the example to include an: image URL, description, title & external URL.
+- Use mock images in place of the periodic table elements (the images can be of any anything you choose e.g. placeholder kitty images).
+- Add a button which shows when the page loads, with the text "Connect". 
 - When clicking "Connect", the formation should animate from "Startfield" to "Sphere".
 
 ## Part 2 - Library integration and unit tests:
@@ -19,18 +23,18 @@ The following exercise is to create a Dapp based on three.js's, periodic table e
 
 ## Part 3 - Connect to a wallet:
 
-It's highly recomeneded at this point to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
+At this point it's highly recommended to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
 
 - Import the demo wallet into MetaMask (details provided to you from Sunil)
 - Add the testNet Mumbai / Polygon to MetaMask
-- Add an asyc function to the Connect button event, so when clicking connect - the first step connects to a wallet via MetaMask, before animating to the starfield
-- Connect the example to a provided Wallet address with MetaMask, showing the NFT's in place of the mock images inside the Dapp.
+- Build an async sequence, so when clicking "connect" - the user connects their wallet > the mock tokens leave the page > then the users actual tokens appear in the sphere formation
 - Within the meta of the NFT's are URLs, enrich the token data, so when a token is clicked on it will open inside a new window.
 
 ## Part 4 - Finishing touches & submission:
 
+- Add any CSS styling to the Dapp / finishing touches
 - Add a README to the github repository, including the steps to serve and test the application
-- Reach out to Sunil sharing the link to the github repository of the code. 
+- Reach out to Sunil sharing the link to the github repository of the code
 
 Public Address: 0x697B612f9C230e91e2b6a6dbffF13Af6374EFc47
 Password Phrase: autographnft
