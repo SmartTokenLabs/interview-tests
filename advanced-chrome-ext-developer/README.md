@@ -1,6 +1,6 @@
 # Test excersise for Advanced Javascript / Chrome ext Developer
 
-The following exercise is to create a token gated Chrome Extension experience. The core concept is that a game is loaded with a single view, and the end user can unlock content as their progress which is provided by the Chrome Extension (some content is shared and some is hidden). 
+The following exercise is to create a token gated Chrome Extension experience. The concept is that a game is loaded with a single view and the end user will unlock content as they progress.
 
 ## Part 1 - Create the Chrome Extension and set up working code example
 
