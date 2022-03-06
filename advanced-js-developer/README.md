@@ -32,6 +32,9 @@ It's highly recomeneded at this point to use a new Chrome browser Profile / to e
 - Add a README to the github repository, including the steps to serve and test the application
 - Reach out to Sunil sharing the link to the github repository of the code. 
 
+Public Address: 0x697B612f9C230e91e2b6a6dbffF13Af6374EFc47
+Password Phrase: autographnft
+Seed: bird mixture dignity next shell sentence rookie napkin little mix sand lava problem also riot syrup armor wolf thing chair soda arena attract depend 
 
 
 
