@@ -10,6 +10,8 @@ The tasks include:
 - Implementation of tests unit tests JEST
 - Code audit and code improvement
 
+Please spend no more than 2 days working on this exercise, working on 1, 2, 3... or all of the items. 
+
 Best of luck working on these items from the Smart Token Lab team! 
 
 ## 1 & 2 - Creation of test suite + Implemenation of tests BDD
@@ -23,6 +25,8 @@ https://github.com/TokenScript/token-negotiator/issues/156
 ## 4 - TokenNegotiator code quality update
 
 https://github.com/TokenScript/token-negotiator/issues/157
+
+
 
 
 
