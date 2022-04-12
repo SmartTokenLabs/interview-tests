@@ -10,9 +10,9 @@ The tasks include:
 - Implementation of tests unit tests JEST
 - Code audit and code improvement
 
-Please spend no more than 2 days working on this exercise, working on 1, 2, 3... or all of the items. 
+Please spend no more than 2 days working on this exercise, working on 1, 2, 3 or all of the items. Choosing which you'd like to work towards demonstrating your skills with these given project tasks.
 
-Best of luck working on these items from the Smart Token Lab team! 
+Best of luck from the Smart Token Lab team! 
 
 ## 1 & 2 - Creation of test suite + Implemenation of tests BDD
 
