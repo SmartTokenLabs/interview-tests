@@ -1,5 +1,5 @@
 
-# Test excersise for a mixed skilled role (Quality Assurance with Development Skills)
+# Test excersise for a mixed skilled role (Quality Assurance with core library development skills)
 
 The following requirements span across QA related tasks and also code quality related development.
 
