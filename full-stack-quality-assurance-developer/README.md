@@ -16,7 +16,7 @@ Best of luck working on these items from the Smart Token Lab team!
 
 https://github.com/TokenScript/token-negotiator-gh-pages/projects/1
 
-## 3 - Library integration and unit tests:
+## 3 - Library integration and unit tests
 
 https://github.com/TokenScript/token-negotiator/issues/156
 
