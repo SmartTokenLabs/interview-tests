@@ -29,7 +29,7 @@ At this point it's highly recommended to use a new Chrome browser Profile / to e
 
 This can be done using any of the following paths below; 
 
-- Deploying a smart contract and adding Dapp logic around this example (using tools such as; Web3, ethers, Infura, Alchemy, Solidity, Truffle, Harhat etc). 
+- Deploying a smart contract and adding Dapp logic around this example (using tools such as; Web3, ethers, Infura, Alchemy, Solidity, Truffle, Hardhat etc). 
 
 Or
 
