@@ -35,10 +35,6 @@ Or
 
 - Minting NFT's via http://testnets.opensea.io/ and using the OpenSea API https://docs.opensea.io/reference/rinkeby-api-overview to load your tokens from Rinkeby.
 
-Or
-
-- Minting NFT's via http://testnets.opensea.io/ and using Token Negotiator https://npmjs.com/package/@tokenscript/token-negotiator to inject tokens into the app.
-
 Laslty...
 
 - Build an async sequence, so the user connects their wallet > the mock tokens leave the page > then the users actual tokens appear in the sphere formation showing the NFT URI images.
