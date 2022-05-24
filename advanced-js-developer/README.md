@@ -53,6 +53,8 @@ https://remix.ethereum.org/ - a great web IDE to debug and deploy Smart Contract
 
 https://docs.openzeppelin.com/contracts/4.x/wizard - Smart Contract wizard
 
+https://github.com/TokenScript/token-negotiator-demo-token-minter/blob/main/example.sol - Example ERC721 Smart Contract
+
 
 
 
