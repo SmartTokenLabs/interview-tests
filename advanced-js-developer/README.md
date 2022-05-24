@@ -25,7 +25,7 @@ Best of luck from the Smart Token Lab team!
 
 At this point it's highly recommended to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
 
-- Using a demo wallet and a test net such as Rinkeby, mint some NFT's.
+- Using a demo MetaMask wallet and a test net such as Rinkeby, mint some NFT's.
 
 This can be done using any of the following paths below; 
 
