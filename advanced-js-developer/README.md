@@ -48,7 +48,9 @@ Laslty...
 ### web3 resources (these may help during the exercise by are not required for use):
 
 https://rinkebyfaucet.com/ - tokens for Rinkeby testnet
+
 https://remix.ethereum.org/ - a great web IDE to debug and deploy Smart Contracts 
+
 https://docs.openzeppelin.com/contracts/4.x/wizard - Smart Contract wizard
 
 
