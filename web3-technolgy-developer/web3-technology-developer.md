@@ -35,7 +35,7 @@ Best of luck from the Smart Token Lab team!
 ````
 
 - Using the Token Negotiator documentation, configure the application so that it can locate the NFT's you have created once your wallet is connected.
-- Make adjustments to the NFT images load, instead of the mock images from part 1.
+- Make adjustments so NFTs images load instead of mock images.
 - Push the changes so far to github under the commit name, 'part 3 - complete' with any additional details you wish to add.
 
 ## Part 4 - Finishing touches & submission:
