@@ -25,7 +25,7 @@ Best of luck from the Smart Token Lab team!
 
 At this point it's highly recommended to use a new Chrome browser Profile / to ensure you don't mix up the wallet used in this exercise with your own.
 
-- Using a demo MetaMask wallet and a test net such as Rinkeby, mint some NFT's.
+- Using a demo MetaMask wallet and a test net such as Goerli, mint some NFT's.
 
 This can be done using any of the following paths below; 
 
@@ -33,7 +33,7 @@ This can be done using any of the following paths below;
 
 Or
 
-- Minting NFT's via http://testnets.opensea.io/ and using the OpenSea API https://docs.opensea.io/reference/rinkeby-api-overview to load your tokens from Rinkeby.
+- Minting NFT's via http://testnets.opensea.io/ and using the OpenSea API [https://docs.opensea.io/reference/rinkeby-api-overview ](https://docs.opensea.io/reference/api-overview) to load your tokens from Goerli or any chosen supported testnet.
 
 Laslty...
 
@@ -47,12 +47,9 @@ Laslty...
 
 ### web3 resources (these may help during the exercise by are not required for use):
 
-https://rinkebyfaucet.com/ - tokens for Rinkeby testnet
-
+https://goerlifaucet.com/ - tokens for Goerli testnet
 https://remix.ethereum.org/ - a great web IDE to debug and deploy Smart Contracts 
-
 https://docs.openzeppelin.com/contracts/4.x/wizard - Smart Contract wizard
-
 https://github.com/TokenScript/token-negotiator-demo-token-minter/blob/main/example.sol - Example ERC721 Smart Contract
 
 
