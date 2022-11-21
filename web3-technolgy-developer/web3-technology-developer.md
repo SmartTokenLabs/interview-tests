@@ -23,7 +23,7 @@ Best of luck from the Smart Token Lab team!
 
 - Create a new web3 Wallet with AlphaWallet (IOS, Android).
 - Mint some NFT's (ERC721's) to your wallet via the user interface https://testnets.opensea.io/ or you can do this programatically https://docs.opensea.io/docs/getting-started 
-- If changes we made to your github repo e.g. you created an NFT collection programmatically, push the channges with the commit name, 'part 2 - complete' with any additional details you wish to add.
+- Push any changes made with the commit name, 'part 2 - complete' with any additional details you wish to add.
 
 ## Part 3 - Integration with Token Negotiator
 
