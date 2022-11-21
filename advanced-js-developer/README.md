@@ -1,4 +1,4 @@
-# Test exercise for Web3 technology Developer
+# Test exercise for Advanced Javascript Developer
 
 The following exercise is to create a Dapp based on three.js's, periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
