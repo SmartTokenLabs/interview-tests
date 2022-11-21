@@ -1,15 +1,15 @@
 # Test exercise Web3 technology Developer
 
-The following exercise is to create a Dapp based on Smart Token Labs - Token Negotiator & three.js's - periodic table example https://threejs.org/examples/css3d_periodictable.html. 
+The following exercise is to create a Web3 Application based on Smart Token Labs - Token Negotiator & three.js - periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-The test is split into 4 areas shown below and designed to be submitted after a maximum of 3 days of development, where to succeed, it's not mandatory to complete all of the task items.
+The test is split into 4 areas shown below and designed to be submitted after 3 days of development, where to succeed, it's not mandatory to complete all of the task items.
 
 Best of luck from the Smart Token Lab team! 
 
 ## Part 1 - Creating the main application:
 
-- Create a new Github project which is made public or can be shared with the STL team
-- Locate the three.js periodic table example code online
+- Create a new Github project (public or can be shared directly to the STL team).
+- Locate the three.js periodic table example code online.
 - Add a new particle formation to the example called 'starfield'.
 - On load of the example, the elements should initialise the 'starfield formation', placing the elements randomly at x, y, z positions.
 - Adjust the input data structure of the example to include an: image source and clickable URL.
@@ -19,13 +19,13 @@ Best of luck from the Smart Token Lab team!
 
 ## Part 2 - Web3 SetUp
 
-- Create a new web3 Wallet with AlphaWallet (IOS, Android)
+- Create a new web3 Wallet with AlphaWallet (IOS, Android).
 - Mint some NFT's (ERC721's) to your wallet via the user interface https://testnets.opensea.io/ or you can do this programatically https://docs.opensea.io/docs/getting-started
 - If changes we made to your github repo e.g. you created an NFT collection programmatically, push the channges with the commit name, 'part 2 - complete' with any additional details you wish to add.
 
 ## Part 3 - Integration with Token Negotiator
 
-- Install the token negtoiator into your website (https://www.npmjs.com/package/@tokenscript/token-negotiator)
+- Install the token negtoiator into your website (https://www.npmjs.com/package/@tokenscript/token-negotiator).
 
 ````html 
   <script type="text/javascript" src="./token-negotiator-dist/negotiator.js"></script>
@@ -38,10 +38,10 @@ Best of luck from the Smart Token Lab team!
 
 ## Part 4 - Finishing touches & submission:
 
-- Add any CSS styling to the Dapp / finishing touches
-- Add a README to the GitHub repository including the steps to serve and test the application
-- Reach out to us sharing the link to the GitHub repository of the code
+- Add any CSS styling to the Dapp / finishing touches.
+- Add a README to the GitHub repository including steps to serve and test the application.
 - Push the changes so far to github under the commit name, 'part 4 - complete' with any additional details you wish to add.
+- Reach out the STL team sharing the link to the GitHub repository of the code.
 
 ### web3 resources (these may help during the exercise by are not required for use):
 
