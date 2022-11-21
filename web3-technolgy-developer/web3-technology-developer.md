@@ -41,7 +41,7 @@ Best of luck from the Smart Token Lab team!
 - Add any CSS styling to the Dapp / finishing touches.
 - Add a README to the GitHub repository including steps to serve and test the application.
 - Push the changes so far to github under the commit name, 'part 4 - complete' with any additional details you wish to add.
-- Reach out the STL team sharing the link to the GitHub repository of the code.
+- Reach out the STL team sharing the link to the GitHub repository.
 
 ### web3 resources (these may help during the exercise by are not required for use):
 
