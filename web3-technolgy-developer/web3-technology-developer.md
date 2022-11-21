@@ -2,7 +2,7 @@
 
 The following exercise is to create a Web3 Application based on Smart Token Labs - Token Negotiator & three.js - periodic table example https://threejs.org/examples/css3d_periodictable.html. 
 
-The test is split into 4 areas shown below and designed to be submitted after 3 days of development, where to succeed, it's not mandatory to complete all of the task items.
+The test is split into 4 areas shown below and designed to be submitted after 3 days of development, where to succeed, it's not mandatory to complete all of the task items (please note: no costs should be incured completing this task, completing Web3 related tasks using testnets and testnet tokens).
 
 Best of luck from the Smart Token Lab team! 
 
@@ -20,7 +20,7 @@ Best of luck from the Smart Token Lab team!
 ## Part 2 - Web3 SetUp
 
 - Create a new web3 Wallet with AlphaWallet (IOS, Android).
-- Mint some NFT's (ERC721's) to your wallet via the user interface https://testnets.opensea.io/ or you can do this programatically https://docs.opensea.io/docs/getting-started
+- Mint some NFT's (ERC721's) to your wallet via the user interface https://testnets.opensea.io/ or you can do this programatically https://docs.opensea.io/docs/getting-started 
 - If changes we made to your github repo e.g. you created an NFT collection programmatically, push the channges with the commit name, 'part 2 - complete' with any additional details you wish to add.
 
 ## Part 3 - Integration with Token Negotiator
