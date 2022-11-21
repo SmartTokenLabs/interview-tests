@@ -4,7 +4,7 @@ The following exercise is to create a Web3 Application based on Smart Token Labs
 
 The test is split into 4 areas shown below and designed to be submitted after 3 days of development, where to succeed, it's not mandatory to complete all of the task items.
 
-Please note: no costs should be incured completing this task, completing Web3 related tasks using testnets and testnet tokens.
+Please note: no costs should be incured completing this task - Complete Web3 tasks using testnets and testnet tokens.
 
 Best of luck from the Smart Token Lab team! 
 
